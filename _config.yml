@@ -3,8 +3,9 @@ title: EVE </br>Evolutionary Model of Variant Effect
 description: "A model for the prediction of clinical significance of human variants based on sequences of diverse organisms across evolution</br>
    </br>
 Project developed by:</br>
-Jonathan Frazer, Pascal Notin, Mafalda Dias, Aidan Gomez , Kelly Brock, Yarin Gal and Debora Marks</br>
+Jonathan Frazer*, Pascal Notin*, Mafalda Dias*, Aidan Gomez , Kelly Brock, </br>
+Yarin Gal** and Debora Marks**</br>
 </br>
-Harvard Medical School</br>
+Marks Lab - Harvard Medical School</br>
 OATML - Oxford Applied and Theoretical Machine Learning Group"
 show_downloads: false
