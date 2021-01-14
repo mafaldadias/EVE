@@ -19,4 +19,4 @@ Files per gene containing all variant model scores, as well as previously known 
 
 Project funded by:
 ![czi logo](https://news.ucsc.edu/2018/04/images/czi-logo-300.jpg)
-![turing logo](https://www.turing.ac.uk/sites/default/files/inline-images/Turing%20logo_0.png)
+![turing logo](https://pbs.twimg.com/profile_images/1278336633587355649/4DNRTJkL_400x400.jpg)
