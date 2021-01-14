@@ -11,8 +11,12 @@ You can download the 1,088 score heatmaps [here](https://marks.hms.harvard.edu/d
 
 Files per gene containing all variant model scores, as well as previously known labels from ClinVar, orthogonal sources of evidence, and final classification labels can be downloaded [here](variant_files.zip).
 
-
+ 
+    
+   
+   
+      
 
 Project funded by:
-![czi logo](https://www.pngkit.com/png/detail/294-2941365_czi-logo-chan-zuckerberg-initiative-logo.png)
+![czi logo](https://news.ucsc.edu/2018/04/images/czi-logo-300.jpg)
 ![turing logo](https://www.turing.ac.uk/sites/default/files/inline-images/Turing%20logo_0.png)
