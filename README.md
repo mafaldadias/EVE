@@ -18,4 +18,4 @@ Files per gene containing all variant model scores, as well as previously known 
       
 
 Project funded by:
-![czi logo](https://marks.hms.harvard.edu/disease_risk_prediction/website_logos.pdf)
+![czi logo](https://marks.hms.harvard.edu/disease_risk_prediction/logos_website.pdf)
