@@ -9,7 +9,7 @@ You can download the model score heatmaps [here](https://marks.hms.harvard.edu/d
 ![Sankey](https://marks.hms.harvard.edu/disease_risk_prediction/flow.png)
 > Classification, in terms of P: Pathogenic, LP: Likely Pathogenic, B: Benign, LB: Likely Benign and U: Uncertain, of human variants seen in the population according to ClinVar (left), of our model (middle) and of our model combined with orthogonal evidence following the ACMG-AMP criteria (right). 
 
-Files per gene containing all variant model scores, as well as previously known labels from ClinVar, orthogonal sources of evidence, and final classification labels can be downloaded [here](variant_files.zip).
+Files per gene containing all variant model scores, as well as previously known labels from ClinVar, orthogonal sources of evidence, and final classification labels can be downloaded [here](https://marks.hms.harvard.edu/disease_risk_prediction/variant_files.zip).
 
   
   
