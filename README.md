@@ -1,4 +1,4 @@
-Check out the new version of our website [here](http://3.128.160.180/)!
+### Check out the new version of our website [here](http://3.128.160.180/)!
 
 
 In our recent article [Large-scale clinical interpretation of genetic variants using evolutionary data and deep learning](https://www.biorxiv.org/content/10.1101/2020.12.21.423785v1.abstract) we present an approach that leverages deep learning models trained on evolutionary data to predict the clinical significance of human variants. We make predictions for all single amino acid variants of 1,088 disease related genes. These predictions come in the form of a score that ranges from 1, most pathogenic, to 0, least pathogenic or in other words most benign.
